@@ -2,10 +2,18 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+data/
+data_fixed/
+Stitched*/
+*.npy
+*.zip
+results/
+checkpoints/
 # C extensions
 *.so
-
+*.pth
+*.jpg
+*.png
 # Distribution / packaging
 .Python
 build/
